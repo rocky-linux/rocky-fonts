@@ -10,18 +10,11 @@ Jeremy Mickel runs MCKL, a Los Angeles-based design studio publishing original f
 
 The OTF or TTF folders contain the font files used by most user operating systems.
 
-If you are running Fedora, Red Hat Enterprise Linux 7, CentOS 7, or any similar derivatives, you can install the fonts with the following:
+If you are running Rocky Linux 8, or any similar derivatives, you can install the fonts with the following:
 ```
-sudo yum install redhat-display-fonts redhat-text-fonts
+sudo yum install rocky-display-fonts rocky-text-fonts
 ```
 Note that Red Hat Enterprise Linux/CentOS users will need to [enable Fedora EPEL first](https://fedoraproject.org/wiki/EPEL).
-
-
-If you are running Homebrew, you can install the fonts with the following:
-
-```text
-brew cask install homebrew/cask-fonts/font-redhat
-```
 
 ## Bug reports and improvement requests
 
