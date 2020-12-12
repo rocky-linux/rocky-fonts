@@ -9,10 +9,10 @@ table BASE {
 } BASE;
 
 table name {
-    nameid 0 "Copyright 2019 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)";
-    nameid 0 1 "Copyright 2019 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)";
-    nameid 7 "Copyright 2019 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)";
-    nameid 7 1 "Copyright 2019 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)";
+    nameid 0 "Copyright 2020 The Rocky Linux Foundation Authors (https://github.com/rocky-linux/rocky-font)";
+    nameid 0 1 "Copyright 2020 The Rocky Linux Foundation Authors (https://github.com/rocky-linux/rocky-font)";
+    nameid 7 "Copyright 2020 The Rocky Linux Foundation Authors (https://github.com/rocky-linux/rocky-font)";
+    nameid 7 1 "Copyright 2020 The Rocky Linux Foundation Authors (https://github.com/rocky-linux/rocky-font)";
     nameid 8 "Pentagram / MCKL";
     nameid 8 1 "Pentagram / MCKL";
     nameid 9 "Pentagram / MCKL";
@@ -27,8 +27,8 @@ table name {
 	nameid 13 1 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
     nameid 14 "http://scripts.sil.org/OFL";
     nameid 14 1 "http://scripts.sil.org/OFL";
-    nameid 16 "Red Hat Display";
-    nameid 16 1 "Red Hat Display";
+    nameid 16 "Rocky Display";
+    nameid 16 1 "Rocky Display";
 } name;
 
 languagesystem DFLT dflt;
