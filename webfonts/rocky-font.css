@@ -2,7 +2,7 @@
   font-family: "RockyDisplay";
   src: url("./RockyDisplay/RockyDisplay-Regular.eot");
   /* IE9 Compat Modes */
-  src: url("./RockyDisplay/RockyDisplay-Regular.eot?#iefix") format("embedded-opentype"), url("./RockyDisplay/RockyDisplay-Regular.woff") format("woff");
+  src: url("./RockyDisplay/RockyDisplay-Regular.eot?#iefix") format("embedded-opentype"), url("./RockyDisplay/RockyDisplay-Regular.woff2") format("woff2");
   /* Modern Browsers */
   font-style: normal;
   font-weight: 300;
@@ -13,7 +13,7 @@
   font-family: "RockyDisplay";
   src: url("./RockyDisplay/RockyDisplay-Medium.eot");
   /* IE9 Compat Modes */
-  src: url("./RockyDisplay/RockyDisplay-Medium.eot?#iefix") format("embedded-opentype"), url("./RockyDisplay/RockyDisplay-Medium.woff") format("woff");
+  src: url("./RockyDisplay/RockyDisplay-Medium.eot?#iefix") format("embedded-opentype"), url("./RockyDisplay/RockyDisplay-Medium.woff2") format("woff2");
   /* Modern Browsers */
   font-style: normal;
   font-weight: 400;
@@ -24,7 +24,7 @@
   font-family: "RockyDisplay";
   src: url("./RockyDisplay/RockyDisplay-Bold.eot");
   /* IE9 Compat Modes */
-  src: url("./RockyDisplay/RockyDisplay-Bold.eot?#iefix") format("embedded-opentype"), url("./RockyDisplay/RockyDisplay-Bold.woff") format("woff");
+  src: url("./RockyDisplay/RockyDisplay-Bold.eot?#iefix") format("embedded-opentype"), url("./RockyDisplay/RockyDisplay-Bold.woff2") format("woff2");
   /* Modern Browsers */
   font-style: normal;
   font-weight: 700;
@@ -35,7 +35,7 @@
   font-family: "RockyText";
   src: url("./RockyText/RockyText-Regular.eot");
   /* IE9 Compat Modes */
-  src: url("./RockyText/RockyText-Regular.eot?#iefix") format("embedded-opentype"), url("./RockyText/RockyText-Regular.woff") format("woff");
+  src: url("./RockyText/RockyText-Regular.eot?#iefix") format("embedded-opentype"), url("./RockyText/RockyText-Regular.woff2") format("woff2");
   /* Modern Browsers */
   font-style: normal;
   font-weight: 400;
@@ -46,7 +46,7 @@
   font-family: "RockyText";
   src: url("./RockyText/RockyText-Medium.eot");
   /* IE9 Compat Modes */
-  src: url("./RockyText/RockyText-Medium.eot?#iefix") format("embedded-opentype"), url("./RockyText/RockyText-Medium.woff") format("woff");
+  src: url("./RockyText/RockyText-Medium.eot?#iefix") format("embedded-opentype"), url("./RockyText/RockyText-Medium.woff2") format("woff2");
   /* Modern Browsers */
   font-style: normal;
   font-weight: 700;
