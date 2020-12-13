@@ -20,4 +20,4 @@ table OS/2 {
 } OS/2;
 
 include (../features.family);
-include (RedHatText-Regular kern.fea);
+include (RockyText-Regular kern.fea);

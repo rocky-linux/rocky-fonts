@@ -20,4 +20,4 @@ table OS/2 {
 } OS/2;
 
 include (../features.family);
-include (RedHatText-MediumItalic kern.fea);
+include (RockyText-MediumItalic kern.fea);

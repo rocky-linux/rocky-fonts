@@ -6,6 +6,14 @@
 
 Jeremy Mickel runs MCKL, a Los Angeles-based design studio publishing original fonts and providing design services for clients worldwide. Founded in 2012, MCKL has collaborated with design studios, corporations, and social organizations around the world to produce custom typeface and logo solutions. Mickel's work has been recognized by the Type Directors Club and the AIGA, and he has taught at RISD and the Minneapolis College of Art and Design.
 
+## Development Environment
+
+You need:
+
+- Adobe [afdko](http://adobe-type-tools.github.io/afdko/)
+- Python 2
+  - the `fonttools` module (included in `source_files/requirements.txt`)
+
 ## Installation
 
 The OTF or TTF folders contain the font files used by most user operating systems.

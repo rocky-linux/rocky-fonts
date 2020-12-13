@@ -1,70 +1,70 @@
-[RedHatText-Regular]
-	f=Red Hat Text
+[RockyText-Regular]
+	f=Rocky Text
 	s=Regular
 
-[RedHatText-Italic]
-	f=Red Hat Text
+[RockyText-Italic]
+	f=Rocky Text
 	s=Italic
 
-[RedHatText-Bold]
-	f=Red Hat Text
+[RockyText-Bold]
+	f=Rocky Text
 	s=Bold
 
-[RedHatText-BoldItalic]
-	f=Red Hat Text
+[RockyText-BoldItalic]
+	f=Rocky Text
 	s=Bold Italic
 
-[RedHatText-Medium]
-	f=Red Hat Text
+[RockyText-Medium]
+	f=Rocky Text
 	s=Medium
-	l=Red Hat Text Medium
-	m=1,Red Hat Text Medium
+	l=Rocky Text Medium
+	m=1,Rocky Text Medium
 
-[RedHatText-MediumItalic]
-	f=Red Hat Text
+[RockyText-MediumItalic]
+	f=Rocky Text
 	s=Medium Italic
-	l=Red Hat Text Medium
-	m=1,Red Hat Text Medium Italic
+	l=Rocky Text Medium
+	m=1,Rocky Text Medium Italic
 
 
-[RedHatDisplay-Regular]
-	f=Red Hat Display
+[RockyDisplay-Regular]
+	f=Rocky Display
 	s=Regular
 
-[RedHatDisplay-Italic]
-	f=Red Hat Display
+[RockyDisplay-Italic]
+	f=Rocky Display
 	s=Italic
 
-[RedHatDisplay-Bold]
-	f=Red Hat Display
+[RockyDisplay-Bold]
+	f=Rocky Display
 	s=Bold
 
-[RedHatDisplay-BoldItalic]
-	f=Red Hat Display
+[RockyDisplay-BoldItalic]
+	f=Rocky Display
 	s=Bold Italic
 
-[RedHatDisplay-Medium]
-	f=Red Hat Display
+[RockyDisplay-Medium]
+	f=Rocky Display
 	s=Medium
-	l=Red Hat Display Medium
-	m=1,Red Hat Display Medium
+	l=Rocky Display Medium
+	m=1,Rocky Display Medium
 
-[RedHatDisplay-MediumItalic]
-	f=Red Hat Display
+[RockyDisplay-MediumItalic]
+	f=Rocky Display
 	s=Medium Italic
-	l=Red Hat Display Medium
-	m=1,Red Hat Display Medium Italic
+	l=Rocky Display Medium
+	m=1,Rocky Display Medium Italic
 
-[RedHatDisplay-Black]
-	f=Red Hat Display
+[RockyDisplay-Black]
+	f=Rocky Display
 	s=Black
-	l=Red Hat Display Black
-	m=1,Red Hat Display Black
+	l=Rocky Display Black
+	m=1,Rocky Display Black
 
-[RedHatDisplay-BlackItalic]
-	f=Red Hat Display
+[RockyDisplay-BlackItalic]
+	f=Rocky Display
 	s=Black Italic
-	l=Red Hat Display Black
-	m=1,Red Hat Display Black Italic
+	l=Rocky Display Black
+	m=1,Rocky Display Black Italic
 
 

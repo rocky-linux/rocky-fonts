@@ -1,15 +1,15 @@
 {
-  "name": "@redhat/redhat-font",
+  "name": "@rocky-linux/rocky-font",
   "version": "2.2.0",
-  "description": "Red Hat - the open source font for Red Hat",
-  "main": "red-hat-font.css",
+  "description": "Rocky - the open source font for Rocky Linux",
+  "main": "rocky-font.css",
   "scripts": {
     "test": ""
   },
   "keywords": [
     "font",
-    "Red",
-    "Hat"
+    "Rocky",
+    "Linux"
   ],
   "author": "",
   "license": "OFL-1.1"

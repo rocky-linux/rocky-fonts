@@ -1,0 +1,282 @@
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Display/Medium/RockyDisplay-Medium_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Display/Medium/features'.
+makeotfexe [WARNING] <RockyDisplay-Medium> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyDisplay-Medium.ttf'.
+Built release mode font 'RockyDisplay-Medium.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Display/BlackItalic/RockyDisplay-BlackItalic_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Display/BlackItalic/features'.
+makeotf [Note] adding the style Italic from fontinfo keyword.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyDisplay-BlackItalic> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyDisplay-BlackItalic.ttf'.
+Built release mode font 'RockyDisplay-BlackItalic.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Display/Black/RockyDisplay-Black_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Display/Black/features'.
+makeotfexe [WARNING] <RockyDisplay-Black> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyDisplay-Black.ttf'.
+Built release mode font 'RockyDisplay-Black.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Display/BoldItalic/RockyDisplay-BoldItalic_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Display/BoldItalic/features'.
+makeotf [Note] adding the style Bold from fontinfo keyword.
+makeotf [Note] adding the style Italic from fontinfo keyword.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyDisplay-BoldItalic> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyDisplay-BoldItalic.ttf'.
+Built release mode font 'RockyDisplay-BoldItalic.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Display/Regular/RockyDisplay-Regular_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Display/Regular/features'.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyDisplay-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyDisplay-Regular.ttf'.
+Built release mode font 'RockyDisplay-Regular.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Display/RegularItalic/RockyDisplay-Italic_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Display/RegularItalic/features'.
+makeotf [Note] adding the style Italic from fontinfo keyword.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyDisplay-Italic> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyDisplay-Italic.ttf'.
+Built release mode font 'RockyDisplay-Italic.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Display/MediumItalic/RockyDisplay-MediumItalic_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Display/MediumItalic/features'.
+makeotf [Note] adding the style Italic from fontinfo keyword.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyDisplay-MediumItalic> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyDisplay-MediumItalic.ttf'.
+Built release mode font 'RockyDisplay-MediumItalic.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Display/Bold/RockyDisplay-Bold_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Display/Bold/features'.
+makeotf [Note] adding the style Bold from fontinfo keyword.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyDisplay-Bold> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyDisplay-Bold.ttf'.
+Built release mode font 'RockyDisplay-Bold.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Text/Medium/RockyText-Medium_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Text/Medium/features'.
+makeotfexe [WARNING] <RockyText-Medium> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyText-Medium.ttf'.
+Built release mode font 'RockyText-Medium.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Text/BoldItalic/RockyText-BoldItalic_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Text/BoldItalic/features'.
+makeotf [Note] adding the style Bold from fontinfo keyword.
+makeotf [Note] adding the style Italic from fontinfo keyword.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyText-BoldItalic> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyText-BoldItalic.ttf'.
+Built release mode font 'RockyText-BoldItalic.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Text/Regular/RockyText-Regular_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Text/Regular/features'.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyText-Regular> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyText-Regular.ttf'.
+Built release mode font 'RockyText-Regular.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Text/RegularItalic/RockyText-Italic_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Text/RegularItalic/features'.
+makeotf [Note] adding the style Italic from fontinfo keyword.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyText-Italic> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyText-Italic.ttf'.
+Built release mode font 'RockyText-Italic.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Text/MediumItalic/RockyText-MediumItalic_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Text/MediumItalic/features'.
+makeotf [Note] adding the style Italic from fontinfo keyword.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyText-MediumItalic> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyText-MediumItalic.ttf'.
+Built release mode font 'RockyText-MediumItalic.ttf' Revision 1.005
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/Text/Bold/RockyText-Bold_source.ttf
+
+makeotf [Note] Using features file at '/home/hayden/code/rocky/rocky-fonts/source_files/Text/Bold/features'.
+makeotf [Note] adding the style Bold from fontinfo keyword.
+makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotfexe [WARNING] <RockyText-Bold> The feature file OS/2 overrides TypoAscender and TypoDescender do not sum to the font em-square.
+Fixing output font 'post' table...
+Fixing output font 'head' table...
+Fixing output font 'hhea' table...
+Copying makeotf-generated tables from temp OTF file to output font...
+    copied "GSUB"
+    copied "GPOS"
+    copied "cmap"
+    copied "name"
+    copied "OS/2"
+    copied "BASE"
+Succeeded in merging makeotf tables with TrueType source font to final TrueType output font at 'RockyText-Bold.ttf'.
+Built release mode font 'RockyText-Bold.ttf' Revision 1.005

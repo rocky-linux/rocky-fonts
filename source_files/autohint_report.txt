@@ -1,0 +1,103 @@
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Bold.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Bold.otf. Start time: Sat Dec 12 23:59:52 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sat Dec 12 23:59:55 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Bold.otf. End time: Sat Dec 12 23:59:55 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Italic.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Italic.otf. Start time: Sat Dec 12 23:59:55 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sat Dec 12 23:59:57 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Italic.otf. End time: Sat Dec 12 23:59:58 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-BlackItalic.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-BlackItalic.otf. Start time: Sat Dec 12 23:59:58 2020.
+.....................................................................................................................................................................................
+ERROR: eogonek:   Conflicts with current hints: 0 -200 0 -221 b.
+ERROR: eogonek:   Conflicts with current hints: 0 -221 0 -139 b.
+ERROR: eogonek:   Conflicts with current hints: 0 -200 0 -221 b.
+ERROR: eogonek:   Conflicts with current hints: 0 -221 0 -139 b.
+.......................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:00 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-BlackItalic.otf. End time: Sun Dec 13 00:00:00 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Regular.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Regular.otf. Start time: Sun Dec 13 00:00:01 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:03 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Regular.otf. End time: Sun Dec 13 00:00:03 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Bold.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Bold.otf. Start time: Sun Dec 13 00:00:03 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:06 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Bold.otf. End time: Sun Dec 13 00:00:06 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Medium.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Medium.otf. Start time: Sun Dec 13 00:00:06 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:09 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Medium.otf. End time: Sun Dec 13 00:00:09 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-BoldItalic.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-BoldItalic.otf. Start time: Sun Dec 13 00:00:09 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:12 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-BoldItalic.otf. End time: Sun Dec 13 00:00:12 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-MediumItalic.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-MediumItalic.otf. Start time: Sun Dec 13 00:00:12 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:15 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-MediumItalic.otf. End time: Sun Dec 13 00:00:15 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Regular.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Regular.otf. Start time: Sun Dec 13 00:00:15 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:17 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Regular.otf. End time: Sun Dec 13 00:00:17 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Medium.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Medium.otf. Start time: Sun Dec 13 00:00:18 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:20 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Medium.otf. End time: Sun Dec 13 00:00:20 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-MediumItalic.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-MediumItalic.otf. Start time: Sun Dec 13 00:00:21 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:23 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-MediumItalic.otf. End time: Sun Dec 13 00:00:23 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Black.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Black.otf. Start time: Sun Dec 13 00:00:23 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:26 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyDisplay-Black.otf. End time: Sun Dec 13 00:00:26 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-BoldItalic.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-BoldItalic.otf. Start time: Sun Dec 13 00:00:26 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:29 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-BoldItalic.otf. End time: Sun Dec 13 00:00:29 2020.
+------------------
+Output for: /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Italic.otf
+
+Hinting font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Italic.otf. Start time: Sun Dec 13 00:00:29 2020.
+............................................................................................................................................................................................................................................................................................................................................................................................................................
+Saving font file with new hints...Sun Dec 13 00:00:32 2020
+Done with font /home/hayden/code/rocky/rocky-fonts/source_files/fonts/RockyText-Italic.otf. End time: Sun Dec 13 00:00:32 2020.

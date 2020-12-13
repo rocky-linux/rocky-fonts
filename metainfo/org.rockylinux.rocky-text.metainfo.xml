@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="font">
+  <id>org.rockylinux.rocky-text</id>
+  <project_license>OFL-1.1</project_license>
+  <metadata_license>CC-BY-SA-4.0</metadata_license>
+  <name>Rocky Text</name>
+  <summary>Rocky Text font family</summary>
+  <description>
+    <p>Rocky is a fresh take on the geometric sans genre,
+       taking inspiration from a range of American sans serifs
+       including Tempo and Highway Gothic.
+    </p>
+    <p>The Text styles have a slightly smaller x-height and narrower width
+       for better legibility, are spaced more generously, and have thinned joins
+       for better performance at small sizes.
+    </p>
+    <p>The fonts were originally commissioned by Paula Scher / Pentagram
+       and designed by Jeremy Mickel / MCKL for the new Rocky identity.
+    </p>
+  </description>
+  <update_contact>brand@rockylinux.org</update_contact>
+  <url type="homepage">https://github.com/rocky-linux/rocky-fonts</url>
+</component>

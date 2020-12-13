@@ -1,9 +1,9 @@
 SuppressHintWarnings	true
-InputFontPath	RedHatDisplay-BlackItalic_source.ttf
+InputFontPath	RockyDisplay-BlackItalic_source.ttf
 ReleaseMode	true
 FeaturePath	features
 FontMenuDBPath	../../FontMenuNameDB
 GlyphAliasDBPath	../../GlyphOrderAndAliasDB
 IsItalicStyle	true
-OutputFontPath	RedHatDisplay-BlackItalic.ttf
+OutputFontPath	RockyDisplay-BlackItalic.ttf
 kSetfsSelectionBitsOn	[8]

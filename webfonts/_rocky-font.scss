@@ -1,0 +1,61 @@
+//----------------------
+// Rocky Font Mixin
+//----------------------
+
+@mixin printRockyFont(
+  $weightValue: 400,
+  $weightName: normal,
+  $familyName: "RockyText",
+  $style: "normal",
+  $relative: true
+  ) {
+    
+  $filePath: "./" + $familyName + "/" + $familyName + "-" + $weightName;
+ 
+  @if $relative == false {
+    $filePath: $fontLocation +  "/" + $familyName +  "/" + $familyName + "-" + $weightName;
+  }
+ 
+  @font-face {
+    font-family: $familyName;
+    src: 
+      url('#{$filePath}.eot'); /* IE9 Compat Modes */
+    src: 
+      url('#{$filePath}.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+      url('#{$filePath}.woff') format('woff'); /* Modern Browsers */
+      //url('#{$filePath}.otf') format('OpenType'), /* Safari, Android, iOS */
+      //url('#{$filePath}.svg#RockyDisplay-#{$weightName}') format('svg'); /* Legacy iOS */
+    font-style: #{$style};
+    font-weight: $weightValue;
+    text-rendering: optimizeLegibility;
+  }
+}
+
+//----------------------
+// Rocky Font Usage
+//----------------------
+
+// No compiler? No problem! Paste this file into sassmeister.com
+ 
+// If you would like to load the font from static.redhat.com, use this variable 
+// $fontLocation: "/"; 
+// and set the $relative argument to false when you call the mixin
+ 
+//----------------------
+// Include the Rocky Display font 
+//---------------------- 
+// @include printRockyFont(300, "Regular", $familyName: "RockyDisplay"); 
+// @include printRockyFont(400, "Medium", $familyName: "RockyDisplay");
+// @include printRockyFont(700, "Bold", $familyName: "RockyDisplay");
+
+//----------------------
+// Include the Rocky Text font 
+//----------------------
+// @include printRockyFont(400, "Regular", $familyName: "RockyText");
+// @include printRockyFont(700, "Medium", $familyName: "RockyText");
+
+// Example Usage
+// h2 {
+//   font-family: "RockyDisplay";
+//   font-weight: 700;
+// }

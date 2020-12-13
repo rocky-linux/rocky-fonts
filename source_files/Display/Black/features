@@ -20,4 +20,4 @@ table OS/2 {
 } OS/2;
 
 include (../features.family);
-include (RedHatDisplay-Black kern.fea);
+include (RockyDisplay-Black kern.fea);
